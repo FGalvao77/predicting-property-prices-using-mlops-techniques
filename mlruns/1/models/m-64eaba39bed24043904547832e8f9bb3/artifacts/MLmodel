@@ -1,0 +1,23 @@
+artifact_path: /home/fernandogalvao/Documentos/my-projects/predicting-property-prices-using-mlops-techniques/mlruns/1/models/m-64eaba39bed24043904547832e8f9bb3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-64eaba39bed24043904547832e8f9bb3
+model_size_bytes: 10350176
+model_uuid: m-64eaba39bed24043904547832e8f9bb3
+prompts: null
+run_id: fb5b22021f494667a4576acf4691c8e3
+utc_time_created: '2026-02-23 00:14:43.313531'
