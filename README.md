@@ -6,7 +6,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/makefile-%23000000.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 Um projeto _end-to-end_ de `Machine Learning` com foco em **MLOps**, demonstrando as melhores práticas de desenvolvimento, treinamento, serving e monitoramento de modelos de IA.
